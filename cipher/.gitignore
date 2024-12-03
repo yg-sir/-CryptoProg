@@ -1,6 +1,6 @@
 *.iv
 *.o
-hash_prog
+cipher_prog
 *.tmp
 *.log
 *.swp
