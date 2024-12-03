@@ -1,0 +1,9 @@
+*.iv
+*.o
+hash_prog
+*.tmp
+*.log
+*.swp
+*.swo
+*.DS_Store
+build/
